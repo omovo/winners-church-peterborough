@@ -73,12 +73,5 @@ nav ul li {
 }
 
 .main-info h1 {
-  color: var(--primary-darkred);
-  text-transform: uppercase;
-}
-
-/*-----------------TYPED TEXT--------------------*/
-.typed-text {
-  font-size: 2rem;
-  color: var(--primary-white);
+  color: var(--primary-darkrednp);
 }

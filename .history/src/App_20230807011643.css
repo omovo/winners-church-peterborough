@@ -76,9 +76,3 @@ nav ul li {
   color: var(--primary-darkred);
   text-transform: uppercase;
 }
-
-/*-----------------TYPED TEXT--------------------*/
-.typed-text {
-  font-size: 2rem;
-  color: var(--primary-white);
-}

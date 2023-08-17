@@ -1,14 +1,23 @@
 import React from "react";
+import Typed from "react-typed";
 
 const Header = () => {
     return (
-        <div className="header-wrapper">
+        <div className="header-wraper">
         <div className="main-info">
-        
-        <h1>Welcome To Winners Chapel International Peterborough</h1>
-        
+        <Typed
+        className= "typed-text"
+                    strings={["WELCOME TO", "THE PRESENCE OF GOD", "WINNERS CHAPEL INTERNATIONAL PETERBOROUGH", "WELCOME HOME", "WINNERS CHAPEL INTERNATIONAL PETERBOROUGH"]}
+                    typeSpeed={60}
+                    backSpeed={50}
+                    loop
+                />
+                
         </div>
         </div>
+        
+
+        
     
     )
 }

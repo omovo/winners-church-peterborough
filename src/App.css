@@ -4,6 +4,7 @@
   --primary-white: #FFFFFF;
   --primary-darkred: #8B0000;
   --primary-dark: rgba(255,255,255, 0);
+  --primary-orange: #FFA500
 }
 
 
@@ -54,7 +55,7 @@ nav ul li {
 
 /***********************************************HEADER*********************************************************/
 
-.header-wrapper {
+.header-wraper {
   position: relative;
   background: url(images-background.jpeg) no-repeat;
   background-size: cover;
@@ -79,6 +80,24 @@ nav ul li {
 
 /*-----------------TYPED TEXT--------------------*/
 .typed-text {
-  font-size: 2rem;
-  color: var(--primary-white);
+  font-size: 2.5rem;
+  color: var(--primary-darkred);
+}
+
+
+/*-----------------ABOUT US--------------------*/
+
+.profile-img {
+  width: 30rem;
+  border-radius: 50%;
+  padding: .3rem;
+  border: 1px solid var(--primary-darkred);
+}
+
+
+.about-heading {
+
+  color: var(--primary-darkred);
+  text-transform: uppercase;
+
 }

@@ -1,14 +1,14 @@
 import React from 'react';
-import download from "../images.jpeg";
+import download from "../logo.jpg";
 // REACT FONTAWESOME IMPORTS
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {faBars} from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-light bg-white">
         <div className="container">
-  <a className="navbar-brand" href="#"><img className="download" src={download} alt="" /></a>
+  <a className="navbar-brand" href="#"><img className="download" src={download} alt="#" /></a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
    <FontAwesomeIcon  icon={faBars}  style={{color: "#FFFFFF"}}/>
   </button>
@@ -44,4 +44,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar
+export default Navbar;

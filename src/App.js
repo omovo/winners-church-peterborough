@@ -5,6 +5,9 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import AboutUs from "./components/AboutUs";
 import FollowUs from "./components/FollowUs";
+import Programmes from "./components/Programmes";
+import Books from "./components/Books";
+
 
 function App() {
   return (
@@ -16,6 +19,11 @@ function App() {
     <Header />
     <AboutUs />
     <FollowUs />
+    <Programmes />
+    <Books />
+   
+
+    
   
     </>
 

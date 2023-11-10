@@ -9,13 +9,13 @@ import {
 
 const FollowUs = () => {
     return (
-      <div class="social-container">
+      <div id="followss"class="social-container">
       <h3>Social Media</h3>
-      <a href="https://www.youtube.com/c/jamesqquick"
+      <a href="https://www.youtube.com/watch?v=bxQlyWPtaS8"
         className="youtube social">
         <FontAwesomeIcon icon={faYoutube} size="2x" />
       </a>
-      <a href="https://www.youtube.com/c/jamesqquick"
+      <a href="https://www.youtube.com/watch?v=bxQlyWPtaS8"
         className="youtube social">
         <FontAwesomeIcon icon={faYoutube} size="2x" />
       </a>
@@ -30,6 +30,7 @@ const FollowUs = () => {
         className="instagram social">
         <FontAwesomeIcon icon={faInstagram} size="2x" />
       </a>
+
 </div> 
        
     )

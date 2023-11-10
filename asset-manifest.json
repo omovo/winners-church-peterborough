@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/winners-church-peterborough/static/css/main.135984fb.css",
-    "main.js": "/winners-church-peterborough/static/js/main.04be04a2.js",
+    "main.js": "/winners-church-peterborough/static/js/main.3408814c.js",
     "static/js/787.8cb414d8.chunk.js": "/winners-church-peterborough/static/js/787.8cb414d8.chunk.js",
     "static/media/aaron-burden-9zsHNt5OpqE-unsplash.jpg": "/winners-church-peterborough/static/media/aaron-burden-9zsHNt5OpqE-unsplash.6bf720a5cc35fb24744f.jpg",
     "static/media/images2.jpeg": "/winners-church-peterborough/static/media/images2.34906d9c09ca44ae647e.jpeg",
     "index.html": "/winners-church-peterborough/index.html",
     "main.135984fb.css.map": "/winners-church-peterborough/static/css/main.135984fb.css.map",
-    "main.04be04a2.js.map": "/winners-church-peterborough/static/js/main.04be04a2.js.map",
+    "main.3408814c.js.map": "/winners-church-peterborough/static/js/main.3408814c.js.map",
     "787.8cb414d8.chunk.js.map": "/winners-church-peterborough/static/js/787.8cb414d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.135984fb.css",
-    "static/js/main.04be04a2.js"
+    "static/js/main.3408814c.js"
   ]
 }

@@ -12,8 +12,11 @@ const Header = () => {
                     typeSpeed={60}
                     backSpeed={50}
                     loop
+
                 />
                 
+                
+        
         </div>
         </div>
         

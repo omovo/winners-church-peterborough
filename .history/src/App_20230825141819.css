@@ -61,7 +61,7 @@ nav ul li {
 
 .header-wraper {
   position: relative;
-  background: url(aaron-burden-9zsHNt5OpqE-unsplash.jpg) no-repeat;
+  background: url(images-background.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -146,23 +146,3 @@ a.instagram {
 
 
 /*-----------------PROGRAMMES--------------------*/
-
-.programme-heading {
-
-  color: var(--primary-white);
-  text-transform: uppercase;
-  text-align: center;
-
-}
-
-.prog{
-  text-align:center;
-  text-transform: uppercase;
-  color:darkred;
-}
-
-.boks{
-  text-align: center;
-  color:darkred;
-  text-transform:uppercase;
-}

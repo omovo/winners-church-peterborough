@@ -4,7 +4,7 @@ import author from "../images2.jpeg";
 
 const AboutUs = () => {
     return (
-        <div className="container py-5">
+        <div id="aboutus"className="container py-5">
         <div className="row">
         <div className="col-lg-6 col-xm-12">
         <div className= "photo-wrap">
@@ -26,6 +26,13 @@ Our church in London was officially inaugurated in 2002 to spread the Word of Fa
 We are glad you have come to this website because we know your life will never be the same again. Take time to browse through the site and we know it would be a blessing to you. Also, join any of our weekly & Sunday services and as you come to visit us, God will meet you at every point of your need. 
 
         </p>
+
+        <div> 
+
+        
+
+
+        </div>
 
          </div>
         </div>    
